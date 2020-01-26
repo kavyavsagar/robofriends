@@ -1,0 +1,33 @@
+.lh-copy {
+    line-height: 1.5;
+}
+
+.pa3 {
+    padding: 1rem;
+}
+
+.f3 {
+    font-size: 1.5rem;
+}
+
+.measure {
+    max-width: 100%;
+}
+
+@media screen and (min-width: 30em) {
+    .pa5-ns {
+        padding: 4rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .f1-m {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .f-headline-l {
+        font-size: 6rem;
+    }
+}
