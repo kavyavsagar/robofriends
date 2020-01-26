@@ -1,2 +1,2 @@
-# robofriends
-App which describes robots and their info
+# RoboFriends
+App which describes robots and their informations. Its builtup with redux react app.
